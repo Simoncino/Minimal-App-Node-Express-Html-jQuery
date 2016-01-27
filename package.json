@@ -1,0 +1,15 @@
+{
+  "name": "ExampleNodeExpressHtml",
+  "version": "1.0.0",
+  "description": "Esempio di applicazione con backend (Node/Express) e un frontend generico con html e jQuery",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sima",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.14.2",
+    "express": "^4.13.4"
+  }
+}
